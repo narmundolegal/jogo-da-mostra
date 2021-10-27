@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1633709046,
+	"version": 1635335001,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/mamute-sheet1.png",
 		"images/fundo-sheet0.png",
 		"images/fundo-sheet1.png",
+		"images/fundo-sheet2.png",
 		"images/sangue-sheet0.png",
 		"images/sangue-sheet1.png",
 		"images/barco-sheet0.png",
@@ -41,6 +42,12 @@
 		"images/padre-sheet0.png",
 		"images/padre-sheet1.png",
 		"images/tiropadre-sheet0.png",
+		"images/planta-sheet0.png",
+		"images/chaoasteca-sheet0.png",
+		"images/ouro-sheet0.png",
+		"images/espeto-sheet0.png",
+		"images/canhao-sheet0.png",
+		"images/bastilha-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
